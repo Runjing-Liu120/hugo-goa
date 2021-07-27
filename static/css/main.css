@@ -260,14 +260,18 @@ header.title
     }
 }
 
+pre > code {
+    white-space: pre;
+    word-wrap: initial;
+    word-break: initial;
+}
+
+
 img{
     max-width: 60%;
     height: auto;
 }
 
-
-pre > code {
-    white-space: pre;
-    word-wrap: initial;
-    word-break: initial;
+p {
+text-align: left
 }
