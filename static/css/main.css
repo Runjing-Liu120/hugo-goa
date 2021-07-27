@@ -267,9 +267,13 @@ pre > code {
 }
 
 
+/* added by bl*/
 img{
     max-width: 60%;
     height: auto;
+}
+b, strong {
+  font-weight: 700;
 }
 
 p {
